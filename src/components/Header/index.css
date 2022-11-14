@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.main-container {
+  display: flex;
+}
+.left-container {
+  background-color: #ffffff;
+  height: 80vh;
+  width: 20vw;
+}
+.logo {
+  height: 100px;
+}
+.side {
+  display: flex;
+  align-items: center;
+  margin: 12px;
+}
+.header_bg {
+  background-color: #ffffff;
+  height: 15vh;
+}
+.header_container {
+  display: flex;
+  margin: 16px;
+  justify-content: space-between;
+  width: 80vw;
+}

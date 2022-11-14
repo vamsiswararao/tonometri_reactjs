@@ -1,0 +1,7 @@
+/* Write your CSS here */
+.list-container {
+  list-style-type: none;
+  background-color: #ffffff;
+  margin: 5px;
+  border-radius: 12px;
+}
